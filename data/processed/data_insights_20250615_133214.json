@@ -1,0 +1,262 @@
+{
+  "dataset_overview": {
+    "total_players": 152,
+    "total_teams": 6,
+    "total_goals": 79,
+    "total_assists": 55,
+    "total_matches_played": 933,
+    "foreign_players": 32,
+    "avg_age": 27.8,
+    "data_quality_avg": 4.53
+  },
+  "position_analysis": {
+    "distribution": {
+      "Defender": 48,
+      "Midfielder": 46,
+      "Forward": 43,
+      "Goalkeeper": 15
+    },
+    "goals_by_position": {
+      "Defender": 10.0,
+      "Forward": 57.0,
+      "Goalkeeper": 0.0,
+      "Midfielder": 12.0
+    },
+    "avg_efficiency_by_position": {
+      "Defender": 34.76,
+      "Forward": 28.38,
+      "Goalkeeper": 17.12,
+      "Midfielder": 33.41
+    }
+  },
+  "team_analysis": {
+    "squad_sizes": {
+      "Malappuram FC": 27,
+      "Thrissur Magic FC": 27,
+      "Calicut FC": 27,
+      "Thiruvananthapuram Kombans FC": 25,
+      "Forca Kochi FC": 24,
+      "Kannur Warriors FC": 22
+    },
+    "goals_by_team": {
+      "Calicut FC": 20.0,
+      "Forca Kochi FC": 12.0,
+      "Kannur Warriors FC": 15.0,
+      "Malappuram FC": 12.0,
+      "Thiruvananthapuram Kombans FC": 15.0,
+      "Thrissur Magic FC": 5.0
+    },
+    "assists_by_team": {
+      "Calicut FC": 17.0,
+      "Forca Kochi FC": 8.0,
+      "Kannur Warriors FC": 10.0,
+      "Malappuram FC": 9.0,
+      "Thiruvananthapuram Kombans FC": 9.0,
+      "Thrissur Magic FC": 2.0
+    },
+    "avg_efficiency_by_team": {
+      "Calicut FC": 31.01,
+      "Forca Kochi FC": 32.01,
+      "Kannur Warriors FC": 31.82,
+      "Malappuram FC": 34.07,
+      "Thiruvananthapuram Kombans FC": 28.1,
+      "Thrissur Magic FC": 27.95
+    }
+  },
+  "top_performers": {
+    "top_scorers": [
+      {
+        "name": "DORIELTON GOMES NASCIMENTO",
+        "team_name": "Forca Kochi FC",
+        "goals": 7.0,
+        "matches_played": 9.0
+      },
+      {
+        "name": "AUTEMAR BISPO EVANGELISTA",
+        "team_name": "Thiruvananthapuram Kombans FC",
+        "goals": 5.0,
+        "matches_played": 10.0
+      },
+      {
+        "name": "PEDRO JAVIER M",
+        "team_name": "Malappuram FC",
+        "goals": 4.0,
+        "matches_played": 9.0
+      },
+      {
+        "name": "ADRIAN SARDINERO CORPA",
+        "team_name": "Kannur Warriors FC",
+        "goals": 4.0,
+        "matches_played": 10.0
+      },
+      {
+        "name": "GANI AHMMED NIGAM",
+        "team_name": "Calicut FC",
+        "goals": 4.0,
+        "matches_played": 10.0
+      },
+      {
+        "name": "KERVENS BELFORT",
+        "team_name": "Calicut FC",
+        "goals": 4.0,
+        "matches_played": 9.0
+      },
+      {
+        "name": "FASLURAHMAN METHUKAYIL",
+        "team_name": "Malappuram FC",
+        "goals": 3.0,
+        "matches_played": 9.0
+      },
+      {
+        "name": "ALEJANDRO SANCHEZ LOPEZ",
+        "team_name": "Malappuram FC",
+        "goals": 3.0,
+        "matches_played": 9.0
+      },
+      {
+        "name": "FRANCISO DAVID GRANDE\rSERRANO",
+        "team_name": "Kannur Warriors FC",
+        "goals": 3.0,
+        "matches_played": 11.0
+      },
+      {
+        "name": "MUHAMMED RIYAS PT",
+        "team_name": "Calicut FC",
+        "goals": 3.0,
+        "matches_played": 11.0
+      }
+    ],
+    "top_assisters": [
+      {
+        "name": "PATRICK SILVA MOTA",
+        "team_name": "Thiruvananthapuram Kombans FC",
+        "assists": 4.0,
+        "matches_played": 10.0
+      },
+      {
+        "name": "ADRIAN SARDINERO CORPA",
+        "team_name": "Kannur Warriors FC",
+        "assists": 3.0,
+        "matches_played": 10.0
+      },
+      {
+        "name": "GANI AHMMED NIGAM",
+        "team_name": "Calicut FC",
+        "assists": 3.0,
+        "matches_played": 10.0
+      },
+      {
+        "name": "SERGIO BARBOZA JUNIOR",
+        "team_name": "Malappuram FC",
+        "assists": 3.0,
+        "matches_played": 8.0
+      },
+      {
+        "name": "SAID MOHAMED NIDHAL",
+        "team_name": "Forca Kochi FC",
+        "assists": 2.0,
+        "matches_played": 9.0
+      },
+      {
+        "name": "FASLURAHMAN METHUKAYIL",
+        "team_name": "Malappuram FC",
+        "assists": 2.0,
+        "matches_played": 9.0
+      },
+      {
+        "name": "ABDUL HAKKU NEDIYODATH",
+        "team_name": "Calicut FC",
+        "assists": 2.0,
+        "matches_played": 9.0
+      },
+      {
+        "name": "BRITTO P M",
+        "team_name": "Calicut FC",
+        "assists": 2.0,
+        "matches_played": 9.0
+      },
+      {
+        "name": "ERNEST BARFO",
+        "team_name": "Calicut FC",
+        "assists": 2.0,
+        "matches_played": 10.0
+      },
+      {
+        "name": "KHANGENBAM THOI SINGH",
+        "team_name": "Calicut FC",
+        "assists": 2.0,
+        "matches_played": 11.0
+      }
+    ],
+    "most_efficient": [
+      {
+        "name": "ANDRES NIA TCHOUNKEU",
+        "team_name": "Calicut FC",
+        "efficiency_rating": 48.2090395480226,
+        "position_category": "Midfielder"
+      },
+      {
+        "name": "MUHAMMED RIYAS PT",
+        "team_name": "Calicut FC",
+        "efficiency_rating": 48.02147239263803,
+        "position_category": "Defender"
+      },
+      {
+        "name": "SAID MOHAMED NIDHAL",
+        "team_name": "Forca Kochi FC",
+        "efficiency_rating": 47.60546642899584,
+        "position_category": "Midfielder"
+      },
+      {
+        "name": "BIDYANANDA SINGH\rNINGTHOUJAM",
+        "team_name": "Malappuram FC",
+        "efficiency_rating": 47.22222222222222,
+        "position_category": "Midfielder"
+      },
+      {
+        "name": "RODRIGUEZ AYAZO LUIS ANGEL",
+        "team_name": "Forca Kochi FC",
+        "efficiency_rating": 47.15377268385865,
+        "position_category": "Defender"
+      },
+      {
+        "name": "ERNESTEN RUBIS LAVSAMBA",
+        "team_name": "Kannur Warriors FC",
+        "efficiency_rating": 46.04562104562105,
+        "position_category": "Midfielder"
+      },
+      {
+        "name": "RICHARD OSEI AGYEMANG",
+        "team_name": "Calicut FC",
+        "efficiency_rating": 45.988269794721404,
+        "position_category": "Defender"
+      },
+      {
+        "name": "LALHMANGAIHSANGA .",
+        "team_name": "Thiruvananthapuram Kombans FC",
+        "efficiency_rating": 45.78047921071177,
+        "position_category": "Defender"
+      },
+      {
+        "name": "PRAGYAN SUNDAR GOGOI",
+        "team_name": "Kannur Warriors FC",
+        "efficiency_rating": 45.632716049382715,
+        "position_category": "Midfielder"
+      },
+      {
+        "name": "AITOR ALDALIR AGUIRREZABALA",
+        "team_name": "Malappuram FC",
+        "efficiency_rating": 45.38494077834179,
+        "position_category": "Midfielder"
+      }
+    ]
+  },
+  "performance_metrics": {
+    "avg_goals_per_player": 0.52,
+    "avg_assists_per_player": 0.36,
+    "avg_passing_accuracy": 65.5,
+    "avg_minutes_per_match": 65.1,
+    "players_with_goals": 44,
+    "players_with_assists": 35
+  }
+}
